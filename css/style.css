@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+#wrapper {
+	padding-top: 30px
+}
+.capitalize {
+	text-transform: capitalize
+}
+.margin10 {
+	margin-bottom: 10px
+}
+.search-span {
+	display: inline-block;
+	width: 180px
+}
+input[type="radio"], input[type="radio"] + span {
+	margin: 0 10px 0 0
+}
